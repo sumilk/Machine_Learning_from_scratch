@@ -1,3 +1,3 @@
-# BITS_ML
+# BML
 
 Code repo for Machine Learning Algorithms implemented in python from scratch
